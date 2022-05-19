@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou a Helen Nascimento
-- 👀 Hoje atuo na aréa de Analista em Automação de testes Web, Mobile APP
+- 👀 Hoje atuo na aréa de Analista em Automação de testes Web, Mobile APP e API
 
 
 <!-- GITHUB STATS -->
